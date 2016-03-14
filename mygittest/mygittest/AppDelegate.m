@@ -20,6 +20,7 @@
     //我要提交一个新版本
     //zzygggggggg
     ///////rrrrrrrrr
+    NSLog(@"hello");
     return YES;
 }
 
